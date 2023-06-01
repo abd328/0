@@ -71,12 +71,7 @@ function flash() {
     }
 }
 function sleep(time) { return new Promise(resolve => setTimeout(resolve,time));}
-async function flashLoop() {
-	while (1) {
-    	flash();
-    	await sleep(400);
-    }
-}
+
 flashLoop();
 </script>
 </body>
