@@ -14,6 +14,22 @@ var closed_msg = [
 function openIdiot() {
 	window.open('about:blank', '_blank', 'resizable=no,width=582,height=261').document.write(idiot);
 }
+]
+function openIdiot() {
+	window.open('about:blank', '_blank', 'resizable=no,width=582,height=261').document.write(idiot);
+}
+]
+function openIdiot() {
+	window.open('about:blank', '_blank', 'resizable=no,width=582,height=261').document.write(idiot);
+}
+]
+function openIdiot() {
+	window.open('about:blank', '_blank', 'resizable=no,width=582,height=261').document.write(idiot);
+}
+]
+function openIdiot() {
+	window.open('about:blank', '_blank', 'resizable=no,width=582,height=261').document.write(idiot);
+}
 async function check() {
 	while (1) {
     	if (a.closed) {
